@@ -77,7 +77,7 @@ The easiest way to run Tux Bench is using the **AppImage** from the [**Releases 
 
 If you prefer to run the raw script:
 
-git clone \[https://github.com/YOUR\_USERNAME/TuxBench.git\](https://github.com/YOUR\_USERNAME/TuxBench.git)  
+git clone \[https://github.com/WiseManChris/TuxBench.git\](https://github.com/WiseManChris/TuxBench.git)  
 cd TuxBench  
 python tux\_bench.py
 
