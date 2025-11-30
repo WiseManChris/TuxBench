@@ -52,7 +52,7 @@ sudo dnf install python3 python3-tkinter
 
 ## **Running the App via AppImage (Recommended)**
 
-The easiest way to run Tux Bench is using the **AppImage** from the [**Releases Page**](https://www.google.com/search?q=https://github.com/YOUR_USERNAME/TuxBench/releases). No installation required.
+The easiest way to run Tux Bench is using the **AppImage** from the [**Releases Page**](https://github.com/WiseManChris/TuxBench/releases/tag/Tux_bench_v1.0). No installation required.
 
 ### **💻 Standard PC (x86\_64)**
 
